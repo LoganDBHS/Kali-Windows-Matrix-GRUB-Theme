@@ -1,0 +1,9 @@
+# Keep Linux line endings for files that run on Kali's GRUB/Linux side
+*.sh        text eol=lf
+*.txt       text eol=lf
+*.md        text eol=lf
+
+# Binary assets
+*.png       binary
+*.pf2       binary
+*.gif       binary
