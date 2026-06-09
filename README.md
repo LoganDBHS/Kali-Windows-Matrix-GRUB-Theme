@@ -46,7 +46,7 @@ elsewhere.
 1. Go into the folder
 
 ```shell
-cd "Kali and Windows Matrix Morphius GRUB Screen"
+cd Kali-Windows-Matrix-GRUB-Theme
 ```
 
 2. Make the installer executable
